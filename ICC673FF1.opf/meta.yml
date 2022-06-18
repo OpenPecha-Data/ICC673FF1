@@ -1,0 +1,38 @@
+id: ICC673FF1
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:51:45.687880'
+last_modified: '2022-06-18T23:51:45.687902'
+parser: null
+source_metadata:
+  title: Hevajra (Ḍombi lugs) empowerment ritual by bSod nams rtse mo (1142-1182),
+    block print, colophon excerpt
+  author: སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2015-07-16);
+    revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/959
+  bases:
+    dab0:
+      title: Hevajra (Ḍombi lugs) empowerment ritual by bSod nams rtse mo (1142-1182),
+        block print, colophon excerpt
+      order: 1
+      base_file: dab0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
